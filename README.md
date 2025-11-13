@@ -1,4 +1,7 @@
-![ragas](ragas.png)
+<p align="center">
+  <img src="ragas.png" alt="ragas" width="400"/>
+</p>
+
 
 # RAG Evaluation with RAGAS 
 
