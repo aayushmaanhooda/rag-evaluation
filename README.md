@@ -1,4 +1,4 @@
-![ragas](rasgas.png)
+![ragas](ragas.png)
 
 # RAG Evaluation with RAGAS 
 
